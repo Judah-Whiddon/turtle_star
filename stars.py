@@ -1,5 +1,5 @@
 def greeting():
-  print("good morning")
+  print("good night")
 
 
 def main():
